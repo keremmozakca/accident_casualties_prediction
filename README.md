@@ -2,6 +2,7 @@
 "Safety first!"
 
 Proje Linki: https://www.kaggle.com/code/keremozakca/accident-casualties-prediction
+
 Veri Seti: https://www.kaggle.com/datasets/nezukokamaado/road-accident-casualties-dataset
 
 ## Kazalar Analizi ve Tahmin Modeli
